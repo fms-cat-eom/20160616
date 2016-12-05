@@ -613,7 +613,6 @@ var update = function update() {
 
   requestAnimationFrame(update);
 };
-checkboxPlay.checked = true;
 
 update();
 
